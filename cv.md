@@ -1,16 +1,16 @@
-#**Evgeniya Key**
+# **Evgeniya Key**
 
 
-##**Contact Information**
+## **Contact Information**
 
-##**About Me**
+## **About Me**
 
-##**Skills**
+## **Skills**
 
-##**Code Examples**
+## **Code Examples**
 
-##**Work Experience**
+## **Work Experience**
 
-##**Education**
+## **Education**
 
-##**Languages**
+## **Languages**
