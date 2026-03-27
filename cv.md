@@ -1,6 +1,6 @@
 # **Evgeniya Key**
 
-![bird](../images/photo.jpg)
+![bird](./images/photo.jpg)
 
 ## **Contact Information**
 **Email:** evgeniya.nosochek@gmail.com\
