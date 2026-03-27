@@ -26,11 +26,10 @@ git push origin
 ```
 
 ## **Work Experience**
-- **SMS-IT**\
- _Sep 2016 - March 2022_\
+- **SMS-IT** _Sep 2016 - March 2022_\
 Worked as Support Specialist at an IT company that developed software for automated calculation of parameters for thermal power plants.
-- **Information Technologies**\
- _Jan 2010 - Aug 2016_\
+
+- **Information Technologies** _Jan 2010 - Aug 2016_\
 Worked as Implementation Engineer at an IT company that developed software for automated calculation of parameters for thermal power plants.
 
 ## **Education**
