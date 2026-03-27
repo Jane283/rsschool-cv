@@ -4,8 +4,9 @@
 
 ## **Contact Information**
 **Email:** evgeniya.nosochek@gmail.com\
-[LinkedIn:](https://www.linkedin.com/)\
-**Discord:** janek6101
+**Discord:** janek6101\
+[LinkedIn:](https://www.linkedin.com/)
+
 
 ## **About Me**
 Motivated and detail-oriented IT specialist with experience in implementation and support of automated systems for data management and calculation of operational parameters in thermal power plants. Currently transitioning into web development. Experienced in troubleshooting, working with users, and understanding business needs. Brings a strong technical foundation, analytical thinking, and a user-focused approach. Actively building skills in modern web technologies and seeking an opportunity to contribute as a web developer.
