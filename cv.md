@@ -2,7 +2,7 @@
 
 
 ## **Contact Information**
-**Email:**evgeniya.nosochek@gmail.com
+**Email:** evgeniya.nosochek@gmail.com\
 [LinkedIn:](https://www.linkedin.com/)
 
 ## **About Me**
@@ -25,15 +25,15 @@ git push origin
 ```
 
 ## **Work Experience**
-- Information Technologies _Jan 2010 - Aug 2016_
+- Information Technologies _Jan 2010 - Aug 2016_\
 Worked as Implementation Engineer at an IT company that developed software for automated calculation of parameters for thermal power plants.
 
-- SMS-IT _Sep 2016 - March 2022_
+- SMS-IT _Sep 2016 - March 2022_\
 Worked as Support Specialist at an IT company that developed software for automated calculation of parameters for thermal power plants.
 
 ## **Education**
 - Samara State Technical University, Master Degree
-- course HTML5, CSS3 
+- Course HTML5, CSS3 
 
 ## **Languages**
 - English (Intermediate)
